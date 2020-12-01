@@ -1,6 +1,6 @@
 # Aerocraft Dun
 
-Designed and Drew in Solidwork 2017
+Designed and Drew in 2017
 
 ## Views
 
