@@ -2,7 +2,7 @@
 
 Designed and Drew in 2017
 
-Full CAD (Solidworks) avaliable at [GrabCaD-Aerocraft]https://grabcad.com/library/aerocraft-1
+Full CAD (Solidworks) avaliable at [GrabCAD-Aerocraft](https://grabcad.com/library/aerocraft-1)
 
 ## Views
 
