@@ -2,6 +2,8 @@
 
 Designed and Drew in 2017
 
+Full CAD (Solidworks) avaliable at [GrabCaD-Aerocraft]https://grabcad.com/library/aerocraft-1
+
 ## Views
 
 <img src="https://github.com/maggielovedd/aerocraft/blob/main/pictures/Aeron1.png" width="800" alt="">
